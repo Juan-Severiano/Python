@@ -103,3 +103,7 @@ elif (i == 'N') or (i == 'NAO') or (i == 'NÃO') or (i == 'NAOP') or (i == 'QUER
 
 else:
     print('é só sim ou nao espertinho')
+
+print('Obrigado pela preferencia')
+
+
